@@ -1,2 +1,2 @@
-# PracticasLaunchX
-Practicas de LaunchX
+# PrácticasLaunchX
+Prácticas de LaunchX
